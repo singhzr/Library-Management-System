@@ -13,7 +13,7 @@ This is a Spring Boot application for managing a library.
 ## Technologies Used 
 
 - Java
-- Spring Boot
+- Spring Boot 
 - Spring MVC
 - Spring Data JPA
 - Hibernate
