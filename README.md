@@ -17,4 +17,5 @@ This is a Spring Boot application for managing a library.
 - Spring MVC
 - Spring Data JPA
 - Hibernate
-- MySQL 
+- MySQL
+- RESTful APIs for communication between frontend and backend
