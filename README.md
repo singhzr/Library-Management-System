@@ -12,27 +12,9 @@ This is a Spring Boot application for managing a library.
 
 ## Technologies Used
 
+- Java
 - Spring Boot
 - Spring MVC
 - Spring Data JPA
-- Thymeleaf (or any other templating engine of your choice)
-- MySQL (or any other relational database of your choice)
-- Bootstrap (for styling)
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-### Prerequisites
-
-- Java Development Kit (JDK) installed on your machine
-- Maven installed on your machine
-- MySQL installed on your machine (or any other relational database you prefer)
-- An Integrated Development Environment (IDE) such as IntelliJ IDEA or Eclipse
-
-### Installing
-
-1. Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/your-username/library-management-system.git
+- Hibernate
+- MySQL 
