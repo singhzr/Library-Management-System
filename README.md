@@ -9,7 +9,7 @@ This is a Spring Boot application for managing a library.
 - **Checkout and Return**: Facilitates the checkout and return process for library users.
 - **Search Functionality**: Provides search functionality to search for books by title, author, or category.
 - **User Authentication**: Implements user authentication to ensure only authorized users can access certain functionalities.
-
+ 
 ## Technologies Used
 
 - Java
