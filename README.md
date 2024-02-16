@@ -10,7 +10,7 @@ This is a Spring Boot application for managing a library.
 - **Search Functionality**: Provides search functionality to search for books by title, author, or category.
 - **User Authentication**: Implements user authentication to ensure only authorized users can access certain functionalities.
  
-## Technologies Used
+## Technologies Used 
 
 - Java
 - Spring Boot
